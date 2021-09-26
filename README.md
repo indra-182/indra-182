@@ -1,10 +1,10 @@
-# Hello👋
+# Hi👋
 
 👦 My name is Mahadi Indra
 
 ⚡ Interest in Web Development
 
-🌟 Im currently learn Java Programming
+🌟 Im currently learning Java Programming
 
 💭 I wanna be Full-Stack Developer
 
