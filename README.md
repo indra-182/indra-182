@@ -1,11 +1,12 @@
 # Hello👋
 
-😄 My name is Mahadi Indra
+👦 My name is Mahadi Indra
 
 ⚡ Interest in Web Development
 
-🙈 Im currently learn Java Programming
- 
+🌟 Im currently learn Java Programming
+
+💭 I wanna be Full-Stack Developer
 
 🔥 You can reach me on :  [Instagram](https://www.instagram.com/mahadindra/) / [Twitter](https://www.twitter.com/vvxmz_/) 
 
