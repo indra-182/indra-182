@@ -1,6 +1,6 @@
 # 𝓗𝓲, 𝑀𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝑀𝒶𝒽𝒶𝒹𝒾 𝐼𝓃𝒹𝓇𝒶👋
 
-🌟 Im currently learning 𝐉𝐚𝐯𝐚 ☕
+🌟 I'm a Front End Developer
 
 🔥 You can reach me on :  [Instagram](https://www.instagram.com/mahadindra/) / [Twitter](https://www.twitter.com/vvxmz_/)
 
