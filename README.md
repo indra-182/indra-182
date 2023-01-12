@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indra-182&label=Profile%20views&color=0e75b6&style=flat" alt="indra-182" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indra-182" alt="indra-182" /></a> </p>
-![Mahadi Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra-182&show_icons=true&theme=transparent)
 
 <p align="left"> <a href="https://twitter.com/vwxmz" target="blank"><img src="https://img.shields.io/twitter/follow/vwxmz?logo=twitter&style=for-the-badge" alt="vwxmz" /></a> </p>
 
