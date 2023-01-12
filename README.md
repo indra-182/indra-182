@@ -4,4 +4,4 @@
 
 🔥 You can reach me on :  [Instagram](https://www.instagram.com/mahadindra/) / [Twitter](https://www.twitter.com/vwxmz/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indra-182&layout=compact&theme=react)](https://github.com/indra-182/)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://github.com/indra-182/)
