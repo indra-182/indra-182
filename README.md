@@ -18,5 +18,5 @@ A passionate front end web developer from Indonesia
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indra-182&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Vamz's language"/>
+<img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=indra-182&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs?username=indra-182&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark)" alt="Vamz's language"/>
 
