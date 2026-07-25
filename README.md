@@ -5,7 +5,6 @@
   <a href="https://portfolio-mahadi-indra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vercel.app-blue?style=flat&logo=vercel"/></a>
   <a href="https://rxresu.me/mahadiindra2/mahadi-indra-cv"><img src="https://img.shields.io/badge/CV-rxresu.me-important?style=flat&logo=readthedocs"/></a>
   <a href="mailto:mahadiindra2@gmail.com"><img src="https://img.shields.io/badge/Email-mahadiindra2@gmail.com-red?style=flat&logo=gmail"/></a>
-  <a href="https://indradev.space"><img src="https://img.shields.io/badge/Blog-indradev.space-ff69b4?style=flat&logo=hashnode"/></a>
 </p>
 
 ---
