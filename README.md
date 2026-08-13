@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Engineer — 5+ years building fintech, banking & enterprise platforms</h3>
 
 <p align="center">
-  <a href="https://portfolio-mahadi-indra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vercel.app-blue?style=flat&logo=vercel"/></a>
+  <a href="https://portfolio-indradev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vercel.app-blue?style=flat&logo=vercel"/></a>
   <a href="https://rxresu.me/mahadiindra2/mahadi-indra-cv"><img src="https://img.shields.io/badge/CV-rxresu.me-important?style=flat&logo=readthedocs"/></a>
   <a href="mailto:mahadiindra2@gmail.com"><img src="https://img.shields.io/badge/Email-mahadiindra2@gmail.com-red?style=flat&logo=gmail"/></a>
 </p>
@@ -71,8 +71,8 @@ Care about interfaces that feel effortless — high-volume transaction flows, da
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Portfolio](https://github.com/indra-182/Portfolio) | Personal portfolio website | TypeScript |
-| [Blog](https://github.com/indra-182/Blog) | Technical blog | TypeScript |
+| [Portfolio](https://github.com/indra-182/My-Portfolio) | Personal portfolio website | TypeScript |
+| [Blog](https://github.com/indra-182/My-Blog) | Technical blog | TypeScript |
 | [BensinQ](https://github.com/indra-182/BensinQ) | Fuel tracking app | TypeScript, MIT |
 | [Vamz Expense Tracker](https://github.com/indra-182/Vamz-Expense-Tracker) | Expense tracker (React Native / Expo) | TypeScript |
 
@@ -103,6 +103,6 @@ Care about interfaces that feel effortless — high-volume transaction flows, da
 
 <p align="center">
   <i>Let's connect — </i>
-  <a href="https://portfolio-mahadi-indra.vercel.app">portfolio</a> ·
+  <a href="https://portfolio-indradev.vercel.app">portfolio</a> ·
   <a href="mailto:mahadiindra2@gmail.com">email</a>
 </p>
